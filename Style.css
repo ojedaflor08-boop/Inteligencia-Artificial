@@ -1,0 +1,28 @@
+body {
+    font-family: "Segoe UI", sans-serif;
+    background-color: #f8f9fa;
+  }
+  
+  .hero {
+    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
+                url("https://cdn.pixabay.com/photo/2023/04/12/09/17/artificial-intelligence-7919109_1280.jpg") center/cover no-repeat;
+    height: 100vh;
+  }
+  
+  h1, h2 {
+    font-weight: 700;
+  }
+  
+  p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+  }
+  
+  footer a {
+    text-decoration: none;
+    color: #0dcaf0;
+  }
+  footer a:hover {
+    color: #fff;
+  }
+  
